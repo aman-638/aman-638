@@ -8,7 +8,7 @@
 <!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">I am a Full-stack web developer and I love programming and technology💻. I thrive on challenges and constantly set goals🎯 for myself, so I have something to strive towards. I’m always looking for an opportunity to learn something new and I’m currently learning🌱 React. I’m currently working on something cool😉. Other than the tech I love to read novels📖, do painting🖌️, listen to music🎵, and explore nature🌴 outdoors.</p>
+<p align="center">I am MERN stack developer as a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities. Other than the tech I love traveling,meditating and Cooking.</p>
 
 
 <h2 align="center">Languages and tools: 🧰</h2>
@@ -74,7 +74,7 @@
 <div>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <!--   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> -->
-</div> --> --> -->
+</div> 
 
 
 <!-- <h3>Github Info ℹ️  </h3>
