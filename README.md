@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Harshith</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Aman Raj</h1>
 
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
@@ -29,10 +29,10 @@
 
 <h3 align="center">GitHub Analytics: </h3>
 <!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshith128&count_private=true&theme=algolia" alt="harshith128's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-638&count_private=true&theme=algolia" alt="aman-638's GitHub stats" />
 </div> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith128&langs_count=8&theme=algolia" alt="harshith128's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-638&langs_count=8&theme=algolia" alt="aman-638's GitHub stats" />
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith128" alt="harshith128's GitHub stats" />
@@ -40,10 +40,10 @@
 
 <h3 align="center">How to reach me: 📫</h3>
 <div align="center" display="flex">
-  <a target="_blank" href="https://www.linkedin.com/in/harshith-c/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="https://twitter.com/Harshit39931015?t=b42PKDVjnSWHKYFm-GieLA&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a target="_blank" href="mailto: harshithcr1357@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/harshith128"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/aman-raj-59b8971a7/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!--   <a target="_blank" href="https://twitter.com/Harshit39931015?t=b42PKDVjnSWHKYFm-GieLA&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+  <a target="_blank" href="mailto: ar7009297@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/aman-638"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
  
  
@@ -52,7 +52,7 @@
  
  
  
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshith128&left_color=green&right_color=red) -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=aman-638&left_color=green&right_color=red) -->
 <!-- 
 <h4>Front End: </h4>
 <div>
@@ -60,25 +60,25 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
 </div>
 
 <h4>Back End: </h4>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" /> -->
 </div>
 
 <h4>Database</h4>
 <div>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /> -->
 </div> -->
 
 
 <!-- <h3>Github Info ℹ️  </h3>
 <h4>Github Stats</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=harshith128" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=aman-638" /> -->
   
   
