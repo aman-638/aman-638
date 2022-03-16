@@ -25,9 +25,9 @@
 
 
 <h3 align="center">GitHub Analytics: </h3>
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aman-638&count_private=true&theme=algolia" alt="aman-638's GitHub stats" />
-</div> -->
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-638&langs_count=8&theme=algolia" alt="aman-638's GitHub stats" />
 </div>
