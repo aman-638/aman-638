@@ -8,6 +8,8 @@
 <h2 align="center">About me: 👨🏽‍💻</h2>
 <p align="center">I am MERN stack developer as a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities. Other than the tech I love traveling,meditating and Cooking.</p>
 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aman-638theme=dracula&hide_border=true)
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
