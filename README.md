@@ -31,9 +31,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-638&langs_count=8&theme=algolia" alt="aman-638's GitHub stats" />
 </div>
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-638" alt="aman-638's GitHub stats" />
-</div> -->
+</div>
 
 <h3 align="center">How to reach me: 📫</h3>
 
